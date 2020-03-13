@@ -1,0 +1,31 @@
+body(
+h1{
+
+	font-family: Roboto;
+	font-style: normal;
+	font-size: 48px;
+	text-align: center;
+	margin: 70px;
+}
+h2{
+	font-family: Roboto;
+	font-style: normal;
+	font-size: 24px;
+
+}
+img{
+	box-shadow: 0px 0px 20px rgba(27,94,155,0)
+	width: 900px;
+	height: auto;
+}
+
+p{
+	font-family: Roboto;
+	font-weight: lighter;
+	font-size: 18px;
+	line-height: 30px;
+    width: 900px;
+    
+}
+
+)
